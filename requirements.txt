@@ -8,3 +8,5 @@ ipykernel
 nbformat
 threadpoolctl
 jinja2
+tensorboard
+tensorboardX

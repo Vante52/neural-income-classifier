@@ -14,3 +14,5 @@ logs/
 
 # IDE
 .vscode/
+
+notebooks/03_training_visualization.ipynb
